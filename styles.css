@@ -75,6 +75,33 @@ footer{
     color: white;
 }
 
+/* linear gradient button noch anzupassen.
+
+.btn-default {
+    background: linear-gradient(to left, #7F3589 50%, #8cbd3a 50%) right;
+    color: white;
+    width: 150px;
+    border-radius: revert;
+    border: none;
+    background-size: 180%;
+    transition: all .5s ease-out;
+}
+
+.btn-default:hover {
+    background-position: left;
+    background-size: 200%;
+}
+
+
+------ ÜbergangLinear Gradient Button
+
+:not(:disabled):not(.disabled).btn-green.active, :not(:disabled):not(.disabled).btn-green:active, .show > .btn-green.dropdown-toggle {
+	background-color: #8cbd3a;
+	color: white;
+	border-color: #8cbd3a;
+}
+
+*/
 
 
 
